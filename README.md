@@ -100,7 +100,7 @@ ___
 
 
 
-[Github link](https://github.com/MDFARHYN/scrapeTiger)
+[pypi.org](https://pypi.org/project/scrapeTiger/1.0.4/)
 
 [report issue](https://github.com/MDFARHYN/scrapeTiger/issues)
 
